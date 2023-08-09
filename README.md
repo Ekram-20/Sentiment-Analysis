@@ -1,6 +1,5 @@
 # Sentiment-Analysis
-This is the project of NLP Course. 
-The objective is to classify the Arabic reviews as either positive or negative. 
+This is the project for NLP Course which classifies the Arabic reviews as positive or negative. 
 
 
 ## Data set Link
